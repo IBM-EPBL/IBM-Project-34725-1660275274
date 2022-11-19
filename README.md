@@ -4,5 +4,5 @@ Plasma Donor Application
 Team mates :
   -> M. SABARINATH (Team Leader)
   -> S. SHREEKALA
-  -> M. VIGNESH KUMAR
+  -> M. VIGNESHKUMAR
   -> S. SANJAY
